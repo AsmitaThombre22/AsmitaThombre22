@@ -17,8 +17,8 @@
 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,spring,php,cs,react,express,dotnet,mysql,postgres,git,github,vscode,docker,linux,flask,aws,android,kubernetes,mongoDB,firebase" />
-</p>---
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,spring,php,cs,react,express,dotnet,mysql,postgres,git,github,vscode,docker,linux,flask,aws,android,kubernetes,mongodb,firebase" />
+</p>
 
 ☁️ Cloud & DevOps
 
