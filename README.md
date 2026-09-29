@@ -17,11 +17,10 @@
 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,docker,linux,flask,aws,kubernetes,firebase" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,spring,php,cs,react,express,dotnet,mysql,postgres,git,github,vscode,docker,linux,flask,aws,android,kubernetes,mongoDB,firebase" />
 </p>---
 
 ☁️ Cloud & DevOps
-
 
 📊 GitHub Stats
 
