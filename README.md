@@ -29,7 +29,7 @@
 
 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/asmita-thombre
+- 💼 LinkedIn: https://www.linkedin.com/in/asmita-thombre-1861243a7
 - 📧 Email: thombreasmita21@gmail.com 
 - 🌐 Portfolio: ----
 
